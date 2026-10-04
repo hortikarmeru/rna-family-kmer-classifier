@@ -14,4 +14,4 @@ Length-only random forest as a baseline.
 
 **Limitations:** Six of the families are rRNA split by domain of life, and near identical
 sequences can appear on both sides of the random split, so the score is likely optimistic.
-See the end of the [notebook](rna_family_prediction.ipynb) for details.
+See the end of the [notebook](RNA_Family_Prediction.ipynb) for details.
